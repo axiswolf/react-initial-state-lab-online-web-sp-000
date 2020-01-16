@@ -1,5 +1,5 @@
-import React from 'react';
-import Bomb from "./Bomb";
+import React from 'react'
+import Bomb from "./Bomb"
 
 class ImageSlider extends React.Component {
 
@@ -17,4 +17,4 @@ class ImageSlider extends React.Component {
     }
 }
 
-export default ImageSlider; 
+export default ImageSlider;
